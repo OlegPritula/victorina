@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question second="10">
+    <text>Сколько водных океанов на нашей планете?</text>
+    <variants>
+      <variant>1</variant>
+      <variant>4</variant>
+      <variant right="true">5</variant>
+      <variant>6</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Единица измерения силы тока - это:</text>
+    <variants>
+      <variant right="true">Ампер</variant>
+      <variant>Вольт</variant>
+      <variant>Ватт</variant>
+      <variant>Джоуль</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Сатурн - какая по счету планета от Солнца?</text>
+    <variants>
+      <variant>4</variant>
+      <variant>5</variant>
+      <variant right="true">6</variant>
+      <variant>7</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Сколько будет 0,2 км в дециметрах?</text>
+    <variants>
+      <variant>20000</variant>
+      <variant right="true">2000</variant>
+      <variant>200</variant>
+      <variant>20</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Какое число обозначается римскими цифрами LXXVII?</text>
+    <variants>
+      <variant>62</variant>
+      <variant>72</variant>
+      <variant right="true">77</variant>
+      <variant>87</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Сколько хромосом в геноме человека</text>
+    <variants>
+      <variant>48</variant>
+      <variant right="true">46</variant>
+      <variant>44</variant>
+      <variant>42</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Сколько месяцев в году имеют 28 дней?</text>
+    <variants>
+      <variant>1</variant>
+      <variant>5</variant>
+      <variant>7</variant>
+      <variant right="true">12</variant>
+    </variants>
+  </question>
+  <question second="10">
+    <text>Сколько глаз у обыкновенной мухи?</text>
+    <variants>
+      <variant>2</variant>
+      <variant right="true">5</variant>
+      <variant>7</variant>
+      <variant>4000</variant>
+    </variants>
+  </question>
+</questions>
